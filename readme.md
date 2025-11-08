@@ -109,12 +109,6 @@ PORTA   ESTADO  SERVIÇO     OBSERVAÇÃO
 * **Passos:** criar Rogue AP, conectar dispositivo de teste, ativar DNS spoofing, servir página de phishing controlada
 * **Remediação:** uso de VPN, verificação de HTTPS/EV, HSTS, educação do usuário
 
-### Teste de Política de Segurança Física (BadUSB)
-
-* **Ataque:** BadUSB que executa script de entrada (ex: abre bloco de notas e digita)
-* **Objetivo:** testar políticas de bloqueio físico/tempo de tela
-* **Passos:** testar com máquina desbloqueada e bloqueada (Win+L)
-* **Remediação:** bloquear máquina sempre que ausente, desabilitar execução automática de dispositivos desconhecidos
 
 ### Teste de Política de Inatividade (Mouse Jiggler)
 
